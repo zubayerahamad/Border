@@ -1,0 +1,12 @@
+div{
+    background-color: red;
+    color: white;
+    /* border has 2 way for style */
+    border: 10px solid rgb(131, 130, 130);
+    /* border-width: 20;
+    border-color: black;
+    border-style: dotted; */
+    border-radius: 10px;
+    margin: 15px;
+    
+}
